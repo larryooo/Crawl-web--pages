@@ -1,0 +1,30 @@
+title:Trend Micro PSP, PS3, PS4 Support
+summary_info:Key FeaturesProtect your children from harmful information on the Internet, such as drug-related information and violent or indecent imagesSecure your personal information from identity theftPrevent device from opening fraudulent and other unsafe websitesBlock websites that transmit malicious software
+main_content:
+FAQs - Web Security and Kids Safety for PS4
+What is Trend Micro Web Security Service for PlayStation®4?
+This service includes two forms of protection: Trend Micro Kids Safety for PlayStation®4 and Trend Micro Web Security for PlayStation®4. These features can prevent the PlayStation®4 Internet browser from opening unsafe, fraudulent, or unwanted websites.
+What is Trend Micro Kids Safety for PlayStation®4?
+Trend Micro Kids Safety for PlayStation®4 prevents the PlayStation®4 Internet browser from opening websites unsuitable for children.
+What is Trend Micro Web Security for PlayStation®4?
+Trend Micro Web Security for PlayStation®4 prevents the PlayStation®4 Internet browser from opening fraudulent or unsafe websites.
+What kinds of websites will Trend Micro Kids Safety for PlayStation®4 block?
+Trend Micro Kids Safety for PlayStation®4 can block websites that fall into these categories: adult (sexual), alcohol, tobacco, illegal drugs, crime, cults, gambling, racism, and many more.
+How do I start using the service?
+First make sure that you have at least version 2.00 of the PlayStation®4 system software. You can then access these services directly from the PlayStation®4 settings by following the steps below:
+Launch the PlayStation®4 Internet browser, then press the OPTIONS button on the controller to open the menu.
+Choose Settings  > Web Filter > Trend Micro for PlayStation®4.
+Select a free trial or purchase the service on PlayStation®Store.
+
+How do I make a purchase?
+You can purchase the protection from the PlayStation®Store.t
+How can I check if the services now protect me?
+The Browser Security icon is displayed when the service is active.
+How do I enable or disable the free trial service?
+To enable or disable the free trial service: Launch the PlayStation®4 Internet browser, and press the OPTIONS button on the controller to open the menu. Choose Settings > Web Filter > Trend Micro for PlayStation®4. Put or remove the tick mark, to enable or disable the service.
+How do I enable or disable the paid service?
+To enable or disable the paid service: Launch the PlayStation®4 Internet browser, and press the OPTIONS button on the controller to open the menu. Choose Settings > Web Filter > Trend Micro for PlayStation®4. Put or remove the tick mark, to enable or disable the service.
+Does a free trial offer everything included in the paid service?
+The free trial service includes all features available in the paid service. However, the free trial service can be used for a limited number of days only.
+How long does a free trial last?
+The free trial service is good for 30 days.
