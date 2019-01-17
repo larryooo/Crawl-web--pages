@@ -20,27 +20,29 @@ def getResponse(url):
         title_str = ''.join(m_tr)
 
     # 摘要
-    summary_info = soup.select('.lwi.iconFeatureNew')
+    summary_info = soup.select('.col-md-6.col-xs-12')
+    # print(summary_info)
     summary_info_str = summary_info[0].text
     blank_line = re.compile('\n+')
     summary_info_str = blank_line.sub('', summary_info_str)
     # print(summary_info_str)
 
     # 正文
-    main_body = soup.select('.col-xs-12')
-    main_content = main_body[2].text
-    m_str = re.compile('\n+')
-    main_content = m_str.sub('', main_content)
+    # main_body = soup.select('.col-xs-12')
+    # main_content = main_body[2].text
+    # m_str = re.compile('\n+')
+    # main_content = m_str.sub('', main_content)
     # print(main_content)
 
 
     # write file
-    if not os.path.exists('usb-security.txt'):
-        content = 'title:'+title_str+'\nsummary_info:'+summary_info_str+'\nmain_content:'+main_content
+    if not os.path.exists('windows-8-apps.txt'):
+        # content = 'title:'+title_str+'\nsummary_info:'+summary_info_str+'\nmain_content:'+main_content
+        content = 'title:'+title_str+'\nsummary_info:'+summary_info_str
         print(content)
-        with open("usb-security.txt", 'w') as f:
+        with open("windows-8-apps.txt", 'w') as f:
             f.write(content)
 
 
 if __name__ == '__main__':
-    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/usb-security/home.aspx')
+    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/windows-8-apps/home.aspx')
