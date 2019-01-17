@@ -28,19 +28,19 @@ def getResponse(url):
 
     # 正文
     main_body = soup.select('.col-xs-12')
-    main_content = main_body[7].text
+    main_content = main_body[6].text
     m_str = re.compile('\n+')
     main_content = m_str.sub('', main_content)
     # print(main_content)
 
 
     # write file
-    if not os.path.exists('/antivirus-plus-security.txt'):
+    if not os.path.exists('/mobile-security-for-android.txt'):
         content = 'title:'+title_str+'\nsummary_info:'+summary_info_str+'\nmain_content:'+main_content
         print(content)
-        with open("antivirus-plus-security.txt", 'w') as f:
+        with open("mobile-security-for-android.txt", 'w') as f:
             f.write(content)
 
 
 if __name__ == '__main__':
-    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/antivirus-plus-security/home.aspx')
+    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/mobile-security-for-android/home.aspx')
