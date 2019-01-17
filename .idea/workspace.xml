@@ -2,6 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bbbcf26b-ade1-4508-b412-8f4c49275e8e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Crawl-web -pages/mobile-security-for-ios.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Crawl-web -pages/spider1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SkyAid-download-log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WSE-Data-Projects" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/.idea/demo.iml" beforeDir="false" />
@@ -29,7 +32,20 @@
     <favorites_list name="test" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spider1.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -45,7 +61,7 @@
     </findStrings>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -53,13 +69,14 @@
         <option value="$PROJECT_DIR$/1.py" />
         <option value="$PROJECT_DIR$/spider.py" />
         <option value="$PROJECT_DIR$/spider2.py" />
+        <option value="$PROJECT_DIR$/spider1.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="-90" />
-    <option name="y" value="182" />
-    <option name="width" value="1936" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="37" />
+    <option name="y" value="306" />
+    <option name="width" value="1802" />
     <option name="height" value="1003" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -68,13 +85,28 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Crawl-web--pages" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Crawl-web--pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\rui_li\Desktop\Crawl-web--pages" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -88,7 +120,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spider2">
+  <component name="RunManager" selected="Python.spider1">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -131,6 +163,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="spider1" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/spider1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="spider2" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -154,6 +207,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.spider1" />
         <item itemvalue="Python.spider2" />
         <item itemvalue="Python.spider" />
         <item itemvalue="Python.1" />
@@ -183,9 +237,9 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-90" y="182" width="1936" height="1003" extended-state="1" />
+    <frame x="37" y="306" width="1802" height="1003" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.16649105" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.17913832" />
       <window_info id="Structure" order="1" sideWeight="0.5019608" side_tool="true" weight="0.16649105" />
       <window_info id="Favorites" order="2" sideWeight="0.5007704" side_tool="true" weight="0.16122234" />
       <window_info anchor="bottom" id="Version Control" order="0" weight="0.32964602" />
@@ -193,11 +247,11 @@
       <window_info anchor="bottom" id="Terminal" order="2" weight="0.43770313" />
       <window_info anchor="bottom" id="Event Log" order="3" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="4" />
-      <window_info anchor="bottom" id="Find" order="5" weight="0.5742145" />
+      <window_info anchor="bottom" id="Find" order="5" weight="0.5735632" />
       <window_info anchor="bottom" id="Debug" order="6" weight="0.6381365" />
       <window_info anchor="bottom" id="Cvs" order="7" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
-      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3336945" />
+      <window_info anchor="bottom" id="Run" order="9" visible="true" weight="0.3137931" />
       <window_info anchor="bottom" id="TODO" order="10" weight="0.32936078" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -220,16 +274,25 @@
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/1.py" />
-    <entry file="file://$PROJECT_DIR$/spider1.py">
+    <entry file="file://$PROJECT_DIR$/spider2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="4" selection-end-line="25" selection-end-column="27" />
+        <state relative-caret-position="214">
+          <caret line="42" column="18" lean-forward="true" selection-start-line="42" selection-start-column="18" selection-end-line="42" selection-end-column="18" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spider2.py" />
+    <entry file="file://$PROJECT_DIR$/spider1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" column="53" lean-forward="true" selection-start-line="22" selection-start-column="53" selection-end-line="22" selection-end-column="53" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
   </component>
 </project>
