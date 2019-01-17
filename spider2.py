@@ -35,12 +35,12 @@ def getResponse(url):
 
 
     # write file
-    if not os.path.exists('/mobile-security-for-android.txt'):
+    if not os.path.exists('/public-wifi-protection.txt'):
         content = 'title:'+title_str+'\nsummary_info:'+summary_info_str+'\nmain_content:'+main_content
         print(content)
-        with open("mobile-security-for-android.txt", 'w') as f:
+        with open("public-wifi-protection.txt", 'w') as f:
             f.write(content)
 
 
 if __name__ == '__main__':
-    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/mobile-security-for-android/home.aspx')
+    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/public-wifi-protection/home.aspx')

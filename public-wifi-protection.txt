@@ -1,0 +1,3 @@
+title:Public Wi-Fi Protection
+summary_info:Secure your Wi-Fi!Trend Micro™ Public Wi-Fi Protection checks the safety of your Wi-Fi connection and protects you against network risks when using your mobile devices.Get it on your preferred device:Android  iOS
+main_content:Exceptional Features Wi-Fi ProtectionConnects to Trend Micro VPN to protect you when joined to an unsecured Wi-Fi. Network SafetyChecks the safety of your Wi-Fi connection and notifies you of security risks. 
