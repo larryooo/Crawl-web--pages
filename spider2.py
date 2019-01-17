@@ -35,12 +35,12 @@ def getResponse(url):
 
 
     # write file
-    if not os.path.exists('/maximum-security.txt'):
+    if not os.path.exists('/internet-security.txt'):
         content = 'title:'+title_str+'\nsummary_info:'+summary_info_str+'\nmain_content:'+main_content
         print(content)
-        with open("maximum-security.txt", 'w') as f:
+        with open("internet-security.txt", 'w') as f:
             f.write(content)
 
 
 if __name__ == '__main__':
-    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/maximum-security/home.aspx')
+    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/internet-security/home.aspx')

@@ -4,7 +4,6 @@
     <list default="true" id="bbbcf26b-ade1-4508-b412-8f4c49275e8e" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/../Crawl-web -pages/mobile-security-for-ios.txt" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Crawl-web -pages/spider1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../SkyAid-download-log" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../WSE-Data-Projects" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../demo1/.idea/demo.iml" beforeDir="false" />
@@ -73,9 +72,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
-    <option name="x" value="37" />
-    <option name="y" value="306" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="358" />
+    <option name="y" value="15" />
     <option name="width" value="1802" />
     <option name="height" value="1003" />
   </component>
@@ -120,7 +119,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.spider1">
+  <component name="RunManager" selected="Python.spider2">
     <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -207,8 +206,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.spider1" />
         <item itemvalue="Python.spider2" />
+        <item itemvalue="Python.spider1" />
         <item itemvalue="Python.spider" />
         <item itemvalue="Python.1" />
       </list>
@@ -238,6 +237,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="37" y="306" width="1802" height="1003" extended-state="1" />
+    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49803922" visible="true" weight="0.17913832" />
       <window_info id="Structure" order="1" sideWeight="0.5019608" side_tool="true" weight="0.16649105" />
