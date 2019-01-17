@@ -29,19 +29,18 @@ def getResponse(url):
     # 正文
     main_body = soup.select('.col-xs-12')
     main_content = main_body[2].text
-    # print(main_content)
-    # m_str = re.compile('\n+')
-    # main_content = m_str.sub('', main_content)
+    m_str = re.compile('\n+')
+    main_content = m_str.sub('', main_content)
     # print(main_content)
 
 
     # write file
-    if not os.path.exists('psp-ps3-ps4-security.txt'):
+    if not os.path.exists('usb-security.txt'):
         content = 'title:'+title_str+'\nsummary_info:'+summary_info_str+'\nmain_content:'+main_content
         print(content)
-        with open("psp-ps3-ps4-security.txt", 'w') as f:
+        with open("usb-security.txt", 'w') as f:
             f.write(content)
 
 
 if __name__ == '__main__':
-    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/psp-ps3-ps4-security/home.aspx')
+    getResponse('https://esupport.trendmicro.com/en-us/home/pages/technical-support/usb-security/home.aspx')
