@@ -1,0 +1,3 @@
+title:Trend Micro Dr. Cleaner Support
+summary_info:Optimize your Mac's Disk and Memory!Trend Micro™ Dr. Cleaner is a FREE Mac cleaner utility app that provides you with better computer performance by optimizing both your Mac OS X disk and memory. It is easy and quick to use, with an intuitive user interface.Download Now!
+main_content:Key Features Disk CleanerRemoves temporary files including cache filesClears mail cacheRemoves user download foldersDeletes browser data, iTunes downloads and iOS temporary filesEmpties the system trash can   Memory OptimizerFrees up unused memoryCleans memory with one clickFrees up memory used by recently accessed filesAutomatically optimizes system memory after closing appsAllows you to monitor memory usage in the menu bar
